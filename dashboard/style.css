@@ -157,8 +157,7 @@ i{
             margin-top: 10px;
         }
         .box5 span{
-            display: flex;
-            border: 3px solid brown;   
+            display: flex;  
             width: 220px;  
             margin: 8px;   
         }
